@@ -1,4 +1,4 @@
-# ServerSelectorX
+# NamelessMC
 
 ***NamelessMC addon for showing the richest people on your server.***
 
