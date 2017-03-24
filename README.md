@@ -1,4 +1,4 @@
-# NamelessMC
+# NamelessFe
 
 ***NamelessMC addon for showing the richest people on your server.***
 
